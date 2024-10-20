@@ -1,0 +1,176 @@
+[NX Daemon Server] - 2024-09-30T20:19:40.253Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-09-30T20:19:40.255Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-09-30T20:19:40.259Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-30T20:19:40.260Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-30T20:19:40.261Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-30T20:19:40.262Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-30T20:19:40.262Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-30T20:19:40.262Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-09-30T20:19:40.262Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-30T20:19:40.262Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-09-30T20:19:40.263Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-09-30T20:19:40.419Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-09-30T20:19:40.420Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-09-30T20:19:40.425Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-30T20:19:40.425Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-30T20:19:40.427Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-30T20:19:40.428Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-30T20:19:40.428Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-30T20:19:40.428Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-09-30T20:19:40.429Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-30T20:19:40.429Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-09-30T20:19:40.430Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-02T19:57:19.844Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-02T19:57:19.845Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-02T19:57:19.850Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T19:57:19.851Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-02T19:57:19.851Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T19:57:19.852Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-02T19:57:19.853Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-02T19:57:19.853Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-10-02T19:57:19.854Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-02T19:57:19.854Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-02T19:57:19.854Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-02T19:57:19.997Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-02T19:57:19.998Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-02T19:57:20.001Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T19:57:20.001Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-02T19:57:20.002Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T19:57:20.003Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-02T19:57:20.004Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-02T19:57:20.004Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-10-02T19:57:20.005Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-02T19:57:20.005Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-02T19:57:20.005Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-02T21:14:40.604Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-02T21:14:40.606Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-02T21:14:40.610Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T21:14:40.610Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-02T21:14:40.611Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T21:14:40.612Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-02T21:14:40.612Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-02T21:14:40.612Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-10-02T21:14:40.614Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-02T21:14:40.614Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-02T21:14:40.614Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-02T21:14:40.760Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-02T21:14:40.762Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-02T21:14:40.763Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T21:14:40.764Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-02T21:14:40.765Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T21:14:40.766Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-02T21:14:40.766Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-02T21:14:40.766Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-10-02T21:14:40.767Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-02T21:14:40.768Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-02T21:14:40.768Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-02T21:17:34.707Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-02T21:17:34.708Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-02T21:17:34.715Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T21:17:34.715Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-02T21:17:34.716Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T21:17:34.717Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-02T21:17:34.717Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-02T21:17:34.717Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-10-02T21:17:34.718Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-02T21:17:34.718Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-02T21:17:34.718Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-02T21:17:34.861Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-02T21:17:34.862Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-02T21:17:34.865Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T21:17:34.865Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-02T21:17:34.866Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T21:17:34.867Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-02T21:17:34.868Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-02T21:17:34.868Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-10-02T21:17:34.869Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-02T21:17:34.869Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-02T21:17:34.869Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-02T21:23:59.777Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-02T21:23:59.778Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-02T21:23:59.785Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T21:23:59.786Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-02T21:23:59.787Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T21:23:59.788Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-02T21:23:59.788Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-02T21:23:59.788Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-10-02T21:23:59.789Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-02T21:23:59.789Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-02T21:23:59.789Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-02T21:23:59.935Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-02T21:23:59.937Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-02T21:23:59.938Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T21:23:59.938Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-02T21:23:59.939Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-02T21:23:59.941Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-02T21:23:59.941Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-02T21:23:59.941Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-10-02T21:23:59.942Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-02T21:23:59.942Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-02T21:23:59.942Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-09T19:15:14.846Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-09T19:15:14.848Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-09T19:15:14.855Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-09T19:15:14.855Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-09T19:15:14.856Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-09T19:15:14.857Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-09T19:15:14.858Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-09T19:15:14.858Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-10-09T19:15:14.859Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-09T19:15:14.859Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-09T19:15:14.859Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-09T19:15:15.014Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-09T19:15:15.016Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-09T19:15:15.023Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-09T19:15:15.024Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-09T19:15:15.026Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-09T19:15:15.027Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-09T19:15:15.027Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-09T19:15:15.027Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-10-09T19:15:15.028Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-09T19:15:15.028Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-09T19:15:15.028Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-14T20:47:31.836Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-14T20:47:31.838Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-14T20:47:31.843Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-14T20:47:31.844Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-14T20:47:31.845Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-14T20:47:31.846Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-14T20:47:31.846Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-14T20:47:31.846Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-10-14T20:47:31.846Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-14T20:47:31.846Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-14T20:47:31.847Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-14T20:47:31.994Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-14T20:47:31.996Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-14T20:47:32.001Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-14T20:47:32.002Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-14T20:47:32.003Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-14T20:47:32.004Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-14T20:47:32.004Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-14T20:47:32.004Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-10-14T20:47:32.005Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-14T20:47:32.005Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-14T20:47:32.005Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-20T19:33:12.948Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-20T19:33:12.950Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-20T19:33:12.957Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-20T19:33:12.957Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-20T19:33:12.958Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-20T19:33:12.959Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-20T19:33:12.960Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-20T19:33:12.960Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-10-20T19:33:12.961Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-20T19:33:12.961Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-20T19:33:12.961Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
+[NX Daemon Server] - 2024-10-20T19:33:13.104Z - Started listening on: /tmp/5bfe71dae1928b44f905/d.sock
+[NX Daemon Server] - 2024-10-20T19:33:13.106Z - [WATCHER]: Subscribed to changes within: /home/duncan/repo/vitest-app (native)
+[NX Daemon Server] - 2024-10-20T19:33:13.108Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-20T19:33:13.109Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-10-20T19:33:13.110Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-10-20T19:33:13.111Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-10-20T19:33:13.111Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-10-20T19:33:13.111Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-10-20T19:33:13.112Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-10-20T19:33:13.112Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (sources)
+[NX Daemon Server] - 2024-10-20T19:33:13.112Z - [WATCHER]: Stopping the watcher for /home/duncan/repo/vitest-app (outputs)
